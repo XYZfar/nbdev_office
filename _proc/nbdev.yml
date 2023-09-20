@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_office"
+  site-url: "https://XYZfar.github.io/nbdev_office"
+  description: "22"
+  repo-branch: main
+  repo-url: "https://github.com/XYZfar/nbdev_office"
